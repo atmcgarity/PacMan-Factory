@@ -1,5 +1,5 @@
 # PacMan-Factory
-This project is an asignment I did as part of the MIT Full Stack Coding Bootcamp. It allows you to create several PacMen and you get to watch as they move around the screen.
+This project is an asignment I did as part of the MIT Full Stack Coding Bootcamp. It allows you to create several PacMen and you get to watch as they move around the screen. This project is heavy on its use of JavaScript and also contains the use of images in the form of PNG files instead of CSS for its animation and presentation. 
 # How to Run
 In order to run this project You would need to fork the files from this repository so you can get the files onto your own machine. You then drag the HTML file into a browser. From there you can use the buttons "Add PacMan" to add a PacMan and "Start Game" to make the PacMen move.
 # Roadmap
